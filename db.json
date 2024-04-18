@@ -1,0 +1,22 @@
+{
+  "post": [
+    {
+      "id": "3f36",
+      "name": "ring",
+      "price": "200",
+      "desc": "this is ring"
+    },
+    {
+      "id": "ad05",
+      "name": "watch",
+      "price": "4000",
+      "desc": "this is watch"
+    },
+    {
+      "id": "f405",
+      "name": "tv",
+      "price": "50000",
+      "desc": "this is tv"
+    }
+  ]
+}
